@@ -105,3 +105,9 @@ footer{
 .ir{
   background-color: rgba(218, 217, 168, 0.993);
 }
+
+.ir2{
+  font-size: 30px;
+  font-family: arial;
+  margin-left: 4%;
+}
