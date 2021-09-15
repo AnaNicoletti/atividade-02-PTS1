@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const porta = 3000;
 
-app.use(express.static ('public')); 
+app.use(express.static('public'));
 app.set('view engine', 'ejs');
 app.engine('html', require('ejs').renderFile);
 
