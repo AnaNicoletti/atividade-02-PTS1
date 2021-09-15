@@ -1,0 +1,59 @@
+body {
+  background: beige;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+.cabecalho{
+  background-color: rgba(218, 217, 168, 0.993);
+  height: 100px;
+}
+
+.titulo{
+  font-size: 80px;
+  font-family: arial;
+  color: rgb(65, 39, 1);
+  text-align: center;
+}
+
+.titulomeio{
+  background-color: rgba(218, 217, 168, 0.993);
+}
+
+.meio{
+  background-color: rgba(218, 217, 168, 0.993);
+}
+
+.meio1{
+  font-family: arial;
+  color: rgb(78, 50, 8);
+  margin-left: 4%;
+}
+
+.meio2{
+  font-size: 20px;
+  font-family: arial;
+  color: rgb(92, 58, 7);
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+footer{
+  font-size: 20px;
+  font-family: arial;
+  color: rgb(65, 39, 1);
+  text-align: center;
+  }
+
+.rodape{
+  background-color: rgba(218, 217, 168, 0.993);
+}
+
+.resumo{
+  font-size: 20px;
+  font-family: arial;
+  color: rgb(92, 58, 7);
+  margin-left: 4%;
+  margin-right: 4%;
+}
